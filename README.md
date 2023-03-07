@@ -1,5 +1,5 @@
 # final-project
-index.html:
+INDEX.HTML:
 A Webpage that displays an Easybank landing page. The page includes a header, hero section, feature section, and articles section.
 
 In the header section, there is a logo of the website and a navigation menu that includes links to home, about, contact, blog, and careers pages. The navigation menu is hidden for mobile devices and can be toggled by clicking the hamburger button.
@@ -10,15 +10,15 @@ The feature section highlights the benefits of using Easybank, such as online ba
 
 The articles section displays the latest articles published on the website. Each article is presented as a box with an image, author, title, and description. Clicking on the box takes the user to the full article.
 
-script.js:
+SCRIPT.JS:
 
-Hamburger Menu Animation
+HAMBURGER MENU ANIMATION:
 This code provides an interactive hamburger menu animation that opens and closes a menu when a button is clicked. It adds or removes CSS classes to various elements to achieve the desired animation effects.
 
-Prerequisites
+PREREQUISITE:
 This code assumes that you have a basic understanding of HTML, CSS, and JavaScript. It also assumes that you have a working knowledge of the Document Object Model (DOM).
 
-Usage
+USAGE:
 To use this code, follow these steps:
 
 Add the HTML for the hamburger menu button to your webpage. The button should have an ID of btnHamburger.
@@ -31,5 +31,5 @@ Add the CSS for the animation effects. The CSS should include the fade-in and fa
 
 Add the JavaScript code to your webpage. The code should be placed in a script tag after the HTML elements it interacts with. The code selects various elements using document.querySelector() and document.querySelectorAll(), adds an event listener to the hamburger menu button, and toggles CSS classes to animate the menu.
 
-License
+LICENSE
 This code is licensed under the MIT license. Feel free to use it however you like.
