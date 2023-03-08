@@ -1,4 +1,6 @@
-# final-project
+# Easy Bank Landing Page
+#### Video Demo: https://www.canva.com/design/DAFcnnhz33o/MMicFuOcV_Usbe8iB-jMEw/view?utm_content=DAFcnnhz33o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#### Description:
 INDEX.HTML:
 A Webpage that displays an Easybank landing page. The page includes a header, hero section, feature section, and articles section.
 
