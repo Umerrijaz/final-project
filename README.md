@@ -1,7 +1,5 @@
 # Easybank Landing Page
 This project is a simple website that displays an Easybank landing page. It includes a header, hero section, feature section, and articles section. The website is designed to be responsive and includes animation effects for a better user experience.
-# Video Demo:
-https://www.canva.com/design/DAFcnnhz33o/MMicFuOcV_Usbe8iB-jMEw/view?utm_content=DAFcnnhz33o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Table of Contents
 1. # Description
