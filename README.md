@@ -29,11 +29,13 @@ This project is built using the following technologies:
 HTML
 CSS
 JavaScript
+
 5. ### Issues Faced
 During the development of this project, some issues that may arise include:
 
 Difficulty in implementing the hamburger menu animation using JavaScript
 Difficulty in making the website responsive for different screen sizes
 Difficulty in choosing the right color scheme and layout for the website
+
 6. ### Problem Solving
 To overcome these issues, it is important to have a good understanding of HTML, CSS, and JavaScript, and to refer to documentation and examples when necessary. It is also important to test the website on different screen sizes to ensure it is responsive and to gather feedback from users to improve the user experience.
