@@ -1,13 +1,6 @@
 # Easybank Landing Page
 This project is a simple website that displays an Easybank landing page. It includes a header, hero section, feature section, and articles section. The website is designed to be responsive and includes animation effects for a better user experience.
 
-## Table of Contents
-1. # Description
-2. # Installation
-3. # Usage
-4. # Technologies Used
-5. # Issues Faced
-6. # Problem Solving
 
 1. ### Description
 The Easybank landing page is a simple website that promotes the services of the Easybank platform. It includes a header section with a logo and navigation menu, a hero section that promotes the services of Easybank, a feature section that highlights the benefits of using the platform, and an articles section that displays the latest articles published on the website.
@@ -36,7 +29,6 @@ This project is built using the following technologies:
 HTML
 CSS
 JavaScript
-Issues Faced
 5. ### Issues Faced
 During the development of this project, some issues that may arise include:
 
